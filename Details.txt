@@ -1,0 +1,26 @@
+# ABOUT REVEAL
+
+Inspect. Modify. Debug. Reveal by Itty Bitty Apps is a macOS app that brings powerful runtime view debugging to iOS developers. Reveal allows developers to see and modify their iOS (and tvOS) application's view hierarchy at runtime using advanced 2D and 3D visualizations, helping them quickly debug view layout problems. First released in October 2013, Reveal quickly gained industry acclaim for its innovative approach to visualizing iOS application view hierarchies and allowing them to be modified on the fly.
+
+# ABOUT ITTY BITTY APPS
+Itty Bitty Apps is a mobile consulting and development company based in Melbourne Australia. They have been developing applications for companies such as REA Group, SEEK, Sensis, Lonely Planet, ANZ and AIA since 2009.
+
+# PRICING
+Reveal comes with a free 14-day trial. Personal licenses are USD$59 and Commercial Seat licenses are USD$119. All licenses are perpetual and include 12 months of updates.
+
+- Personal License: USD$59
+- Commercial Seat License: USD$119
+- Educational discounts, Enterprise & Site Licenses available on request.
+
+# MINIMUM SYSTEM REQUIREMENTS
+macOS 10.13, iOS 8, tvOS 9, Xcode 8
+
+# PRESS CONTACT
+Sean Woodhouse - pr@ittybittyapps.com
+
+# LINKS
+- Web Site: http://revealapp.com
+- Download: http://revealapp.com/download/
+- Support: http://support.revealapp.com/
+- Twitter: http://twitter.com/reveal_app
+- Itty Bitty Apps: http://ittybittyapps.com
